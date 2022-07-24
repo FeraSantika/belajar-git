@@ -1,3 +1,2 @@
 # belajar-git
-Belajar GIT
-Mengubah File README.md
+Belajar GIT : Mengubah File README.md
